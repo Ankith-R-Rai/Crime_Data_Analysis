@@ -1,0 +1,10 @@
+# Data
+*.zip
+*.csv
+extracted_crime_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
